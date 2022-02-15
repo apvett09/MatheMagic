@@ -1,0 +1,7 @@
+radius 1.0:	Circle's circumference is 6.28 and area is 3.14
+radius 2.0:	Circle's circumference is 12.57 and area is 12.57
+sides 2.0, 3.0:	Rectangle's perimeter is 10.00 and area is 6.00
+Error:	No sides found
+sides 6.0, 6.0:	Rectangle's perimeter is 24.00 and area is 36.00
+radius 2.0:	Circle's circumference is 12.57 and area is 12.57
+sides 4.0, 4.0:	Rectangle's perimeter is 16.00 and area is 16.00
